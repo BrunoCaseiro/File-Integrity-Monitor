@@ -1,5 +1,5 @@
 # File Integrity Monitor
-###### File Integrity Monitor in Python which continuously compares files to the initial baseline based on their MD5 hash, raising alerts if any deviations occur
+###### Fun little project to keep my scripting skills sharp! I love scripting, but it's not something I get to do very often at work. These small programs keeps my coding bug entertained :)
 
 
 
