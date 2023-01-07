@@ -46,7 +46,7 @@ elif action == 'B':
 
 	while(True):
 		tempHashes = dict(sorted(tempHashes.items()))
-		print(tempHashes)
+		#print(tempHashes)	#for debugging purposes
 
 		time.sleep(2)				# Check hashes every 3 seconds --> This can be changed, maybe taken as an argument
 		files = os.listdir(os.getcwd()+'/monitor')
